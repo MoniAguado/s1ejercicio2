@@ -1,0 +1,57 @@
+header{
+	background: pink;
+	border: 5px solid black;
+	padding: 2px;
+	margin: 2px;
+	width: 100%;
+	height: 150px;
+	position: fixed;
+	top: 0;
+	left: 0;
+
+}
+
+.parrafos {
+	padding-top: 150px;
+}
+
+
+footer{
+	background: solid black;
+	border: 3px solid pink;
+	width: 100%;
+	height: 150px;
+}
+
+.iconossociales ul{
+	height: 80px;
+	width: 120px;
+	display: flex;
+	flex-wrap: nowrap;
+	justify-content: space-around;
+	padding: 0 5px;
+
+
+}
+
+.iconossociales li{
+	list-style: none;
+}
+
+.iconos {
+	width: 32px;
+	height: 32px;
+}
+
+.cookies{
+	position:fixed;
+	width: 65%;
+	height: 60px;
+	background: orange;
+	padding: 1px;
+	margin: 1px;
+	border: 1px solid black;
+	bottom: 0;
+	right: 0;
+
+}
